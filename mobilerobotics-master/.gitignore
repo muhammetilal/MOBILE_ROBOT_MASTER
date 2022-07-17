@@ -1,0 +1,8 @@
+# matlab_simulation ignores
+*.avi
+*.mp4
+*.asv
+pathdef.m
+
+# misc
+*.*~
